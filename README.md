@@ -1,9 +1,6 @@
-# 👋 Welcome to My GitHub  
+# 👋 Welcome to My GitHub  👨🏿‍💻💻🔭
 
 Hi, I’m Felix Otu Kofi Agyenkwah, **@Paakofinie** also – a passionate researcher, IT consultant, and software enthusiast who thrives on building innovative technology solutions.  
-
----
-# 👋 Welcome to My GitHub 
 
 ---
 
